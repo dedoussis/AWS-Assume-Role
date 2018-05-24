@@ -1,6 +1,6 @@
 # Assume IAM role script for AWS
 
-As a user of an AWS account, use this bash script to assume any given IAM role within the account.  
+As a user of an AWS account, use this zsh script to assume any given IAM role within the account.  
 Includes step of MFA authentication.
 
 ## Usage 
